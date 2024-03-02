@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jaiharish07
+- 👋 Hi, I’m JAI HARISH.M
 - 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning B.E.ELECTRONICS AND COMMUNICATION ENGINEERING
 - 💞️ I’m looking to collaborate on New projects based on machine learning and data science
