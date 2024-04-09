@@ -1,3 +1,6 @@
+#TO RUN THIS CODE,TYPE THIS COMMAND IN YOUR ANACONDA PROMPT
+#--->streamlit run "paste path of the file"
+
 import os
 import streamlit as st
 from dotenv import load_dotenv
