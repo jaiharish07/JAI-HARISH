@@ -1,13 +1,6 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr  9 15:45:48 2024
-
-@author: haris
-"""
 import streamlit as st
 from dotenv import load_dotenv
 import google.generativeai as gen_ai
-
 
 # Load environment variables
 load_dotenv()
@@ -18,9 +11,6 @@ st.set_page_config(
     page_icon=":brain:",  # Favicon emoji
     layout="centered",  # Page layout option
 )
-API_KEY = "AIzaSyCfACZGhBPRw-OT83oYCo7-JqcjAp92K74"
-
-
 GOOGLE_API_KEY = API_KEY
 
 # Set up Google Gemini-Pro AI model
@@ -34,7 +24,6 @@ def translate_role_for_streamlit(user_role):
         return "assistant"
     else:
         return user_role
-
 
 # Initialize chat session in Streamlit if not already present
 if "chat_session" not in st.session_state:
