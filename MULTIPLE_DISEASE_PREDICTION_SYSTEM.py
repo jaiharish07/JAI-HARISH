@@ -1,9 +1,3 @@
-#TO RUN THIS CODE,TYPE THIS COMMAND IN YOUR ANACONDA PROMPT
-#--->streamlit run "paste path of the file"
-
-#MULTPLE DISEASE PREDICTION SYSTEM 
-#CREATED USING TRAINED ML MODELS
-
 import os
 import pickle
 import streamlit as st
