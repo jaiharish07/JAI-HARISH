@@ -1,5 +1,5 @@
 - 👋 Hi, I’m JAI HARISH.M
 - 👀 I’m interested in machine learning and data science
 - 🌱 I’m currently pursuing B.E.ELECTRONICS AND COMMUNICATION ENGINEERING
-- 💞️ I’m looking to collaborate on real time projects based on data science and machine learning as well as deep learning
+- 💞️ I’m looking to collaborate on real time projects based on data science and machine learning.
 - 📫 How to reach me:  Email:harishjaim24@gmail.com
